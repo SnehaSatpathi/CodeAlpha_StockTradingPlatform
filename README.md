@@ -1,15 +1,15 @@
-# 📈 Stock Trading Platform - Java Swing GUI Application
+#  Stock Trading Platform - Java Swing GUI Application
 
-## 📌 Project Overview
+##  Project Overview
 
 Stock Trading Platform is a **GUI-based desktop application developed using Java Swing** that simulates a real-world stock trading system.
 The application allows users to view available stocks, buy and sell shares, manage their portfolio, and track transaction history through an interactive graphical user interface.
 This project is developed using **Object-Oriented Programming (OOP) principles** and is an enhanced GUI version of a console-based stock trading platform.
 
 
-# ✨ Features
+#  Features
 
-## 📊 1. Market Data Management
+##  1. Market Data Management
 
 The application provides a market view where users can see available stocks with their details.
 
@@ -32,7 +32,7 @@ The application provides a market view where users can see available stocks with
 
 
 
-# 💰 2. Buy Stock Functionality
+#  2. Buy Stock Functionality
 
 Users can purchase stocks from the market.
 
@@ -53,7 +53,7 @@ BUY | AAPL | Quantity: 5 | Price: ₹195.50
 
 
 
-# 📉 3. Sell Stock Functionality
+#  3. Sell Stock Functionality
 
 Users can sell stocks available in their portfolio.
 
@@ -74,7 +74,7 @@ SELL | TSLA | Quantity: 2 | Price: ₹250.75
 
 
 
-# 📁 4. Portfolio Management
+#  4. Portfolio Management
 
 The portfolio module allows users to track their investments.
 
@@ -93,7 +93,7 @@ TSLA  - 5 Shares
 
 
 
-# 🧾 5. Transaction History
+#  5. Transaction History
 
 The system maintains complete records of all trading activities.
 
@@ -114,7 +114,7 @@ BUY | GOOGLE | Qty: 3 | Price: ₹180.25 | Total: ₹540.75
 
 
 
-# 🔐 Additional Enhancement: User Login System
+#  Additional Enhancement: User Login System
 
 A login interface has been added as an extra feature to provide a better user experience.
 
@@ -128,7 +128,7 @@ Features:
 
 
 
-# 🖥️ Graphical User Interface
+#  Graphical User Interface
 
 The application is built using **Java Swing**.
 
@@ -146,7 +146,7 @@ The application is built using **Java Swing**.
 
 
 
-# 🏠 Dashboard
+#  Dashboard
 
 The dashboard provides easy navigation to all application modules:
 
@@ -158,7 +158,7 @@ The dashboard provides easy navigation to all application modules:
 
 
 
-# 🏗️ Project Structure
+#  Project Structure
 
 ```
 StockTradingPlatform
@@ -185,7 +185,7 @@ StockTradingPlatform
 
 
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 ## Programming Language
 
@@ -206,7 +206,7 @@ StockTradingPlatform
 
 
 
-# 🧠 Concepts Implemented
+#  Concepts Implemented
 
 ## Object-Oriented Programming
 
@@ -243,7 +243,7 @@ Used for GUI interactions and button operations.
 
 
 
-# 🔄 Application Flow
+#  Application Flow
 
 ```
                LOGIN WINDOW
@@ -268,7 +268,7 @@ MSFT
 
 
 
-# ⚙️ How To Run The Project
+#  How To Run The Project
 
 ### Step 1: Clone Repository
 
@@ -295,7 +295,7 @@ The application will start with the login window.
 
 
 
-# 🔑 Login Details
+#  Login Details
 
 The current version uses a simple login system.
 
@@ -311,7 +311,7 @@ Password: admin123
 
 
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 Possible improvements:
 
@@ -326,7 +326,7 @@ Possible improvements:
 
 
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, the following concepts are demonstrated:
 
